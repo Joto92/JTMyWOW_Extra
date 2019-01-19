@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Orcs | Thrall -->
+		<Replace Tag="LOC_LEADER_THRALL_NAME" Language="zh_Hans_CN">
+			<Text>萨尔</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_EARTH_WARDER_NAME" Language="zh_Hans_CN">
+			<Text>大地之环</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_EARTH_WARDER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>当遇见的每个已创建了宗教且不在战争状态下的文明（包括兽人）获得+5 [ICON_Faith] 信仰值 信仰值。</Text>
+		</Replace>
+		<!-- END Orcs | Thrall -->
+		<!-- Tauren | CAIRNE_BLOODHOOF -->
+		<Replace Tag="LOC_LEADER_CAIRNE_BLOODHOOF_NAME" Language="zh_Hans_CN">
+			<Text>凯恩·血蹄</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_UNITED_TAUREN_TRIBES_NAME" Language="zh_Hans_CN">
+			<Text>牛头人联合氏族</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_UNITED_TAUREN_TRIBES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有您创建或攻占的城市一开始便拥有贸易站。如果位于您 [ICON_Capital] 首都的 [ICON_TradeRoute] 贸易路线范围内，他们也得经过首都。您的 [ICON_TradeRoute] 贸易路线经过您的城市贸易站+1 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<!-- END Tauren | CAIRNE_BLOODHOOF -->
+		<!-- Stormwind | ANDUIN_WRYNN -->
+		<Replace Tag="LOC_LEADER_ANDUIN_WRYNN_NAME" Language="zh_Hans_CN">
+			<Text>安度因·乌瑞恩</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BOY_KING_NAME" Language="zh_Hans_CN">
+			<Text>孩子国王</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BOY_KING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>当遇见的每个已创建了宗教且不在战争状态下的文明（包括人类）获得+5 [ICON_Faith] 信仰值。</Text>
+		</Replace>
+		<!-- END Stormwind | ANDUIN_WRYNN -->
+		<!-- Dwarf | FALSTAD_WILDHAMMER -->
+		<Replace Tag="LOC_LEADER_FALSTAD_WILDHAMMER_NAME" Language="zh_Hans_CN">
+			<Text>弗斯塔德·蛮锤</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WILDHAMMER_CLAN_NAME" Language="zh_Hans_CN">
+			<Text>蛮锤部族</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WILDHAMMER_CLAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>新训练的建造者获得获得两个额外建造行动力。</Text>
+		</Replace>
+		<!-- END Dwarf | FALSTAD_WILDHAMMER -->
+		<!-- Orcs | Varok -->
+		<Replace Tag="LOC_LEADER_VAROK_SAURFANG_NAME" Language="zh_Hans_CN">
+			<Text>瓦罗克·萨鲁法尔</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_VETERAN_OF_THE_ORCS_NAME" Language="zh_Hans_CN">
+			<Text>老兵</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_VETERAN_OF_THE_ORCS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每种政体可获得一个额外的军事槽位。</Text>
+		</Replace>
+		<!-- END Orcs | Varok -->
+		<!-- BURNING_LEGION | KILJAEDEN -->
+		<Replace Tag="LOC_CIVILIZATION_BURNING_LEGION_NAME" Language="zh_Hans_CN">
+			<Text>燃烧军团</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BURNING_LEGION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>燃烧军团</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BURNING_LEGION_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>军团</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_KILJAEDEN_NAME" Language="zh_Hans_CN">
+			<Text>基尔加丹</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GREAT_BURNING_SHADOW_NAME" Language="zh_Hans_CN">
+			<Text>燃烧暗影</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GREAT_BURNING_SHADOW_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每种政体可获得一个额外的军事槽位。累积厌战情绪比平时减少60%。每回合、每单位的单位维护减少4 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DECEIVER_NAME" Language="zh_Hans_CN">
+			<Text>欺诈者</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DECEIVER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>为远古时代、古典时代、中世纪和文艺复兴的近战和远程单位单位+50% [ICON_Production] 生产力。为中世纪、文艺复兴和工业时代的重型和轻型骑兵单位+100% [ICON_Production] 生产力。</Text>
+		</Replace>
+		<!-- END BURNING_LEGION | KILJAEDEN -->
+		<!-- BURNING_LEGION | SARGERAS -->
+		<Replace Tag="LOC_LEADER_SARGERAS_NAME" Language="zh_Hans_CN">
+			<Text>萨格拉斯</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DARK_TITAN_NAME" Language="zh_Hans_CN">
+			<Text>黑暗泰坦</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DARK_TITAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每种政体可获得一个额外的通配符槽位。每回合大将军点数+4。</Text>
+		</Replace>
+		<!-- END BURNING_LEGION | SARGERAS -->
+		<!-- BURNING_LEGION | VARIMATHRAS -->
+		<Replace Tag="LOC_LEADER_VARIMATHRAS_NAME" Language="zh_Hans_CN">
+			<Text>瓦里玛萨斯</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NATHREZIM_NAME" Language="zh_Hans_CN">
+			<Text>纳斯雷兹姆</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NATHREZIM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有城市发展加速60%。</Text>
+		</Replace>
+		<!-- END BURNING_LEGION | VARIMATHRAS -->
+		<!-- TWILIGHT_HAMMER | Cho'Gall -->
+		<Replace Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_NAME" Language="zh_Hans_CN">
+			<Text>暮光之锤</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>暮光之锤</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>暮光</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_CHOGALL_NAME" Language="zh_Hans_CN">
+			<Text>古加尔</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CULT_OF_TWILIGHT_NAME" Language="zh_Hans_CN">
+			<Text>暮光崇拜</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CULT_OF_TWILIGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>战斗胜利可获得等同于被击败单位 [ICON_Strength] 战斗力50%的 [ICON_Faith] 信仰值。</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SHADOW_MAGE_NAME" Language="zh_Hans_CN">
+			<Text>暗影法师</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SHADOW_MAGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>审判官可以额外进行一次异教审判。当与信奉其他宗教的文明进行战争时，+4 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<!-- END TWILIGHT_HAMMER | Cho'Gall -->
+	</LocalizedText>
+</GameData>

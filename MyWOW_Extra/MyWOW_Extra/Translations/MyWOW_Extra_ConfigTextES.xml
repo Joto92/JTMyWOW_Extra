@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+		<LocalizedText>
+			<!-- Orcs | Thrall -->
+			<Replace Tag="LOC_TRAIT_EARTH_WARDER_NAME" Language="es_ES">
+				<Text>Guardian de la Tierra</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_EARTH_WARDER_DESCRIPTION" Language="es_ES">
+				<Text>+5 a Fe [ICON_Faith] para cada civilización (incluida la Orcs) con la que se hayan encontrado y que, además de haber fundado una religión, no esté en guerra actualmente.</Text>
+			</Replace>
+			<!-- END Orcs | Thrall -->
+			<!-- Tauren | CAIRNE_BLOODHOOF -->
+			<Replace Tag="LOC_LEADER_CAIRNE_BLOODHOOF_NAME" Language="es_ES">
+				<Text>Cairne Pezuña de Sangre</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_UNITED_TAUREN_TRIBES_NAME" Language="es_ES">
+				<Text>Tribus Tauren Unidas</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_UNITED_TAUREN_TRIBES_DESCRIPTION" Language="es_ES">
+				<Text>Todas las ciudades que fundes o conquistes comienzan con un Puesto comercial. Si se encuentran dentro del alcance de una Ruta comercial [ICON_TradeRoute] de tu capital [ICON_Capital] también comenzarán con una Carretera hacia ella. Tus Rutas comerciales [ICON_TradeRoute] ganan +1 de Oro [ICON_Gold] por pasar por los Puestos comerciales que hay en tus ciudades.</Text>
+			</Replace>
+			<!-- END Tauren | CAIRNE_BLOODHOOF -->
+			<!-- Stormwind | ANDUIN_WRYNN -->
+			<Replace Tag="LOC_TRAIT_THE_BOY_KING_NAME" Language="es_ES">
+				<Text>El Joven Rey</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_THE_BOY_KING_DESCRIPTION" Language="es_ES">
+				<Text>+5 a Fe [ICON_Faith] para cada civilización (incluida Ventormenta) con la que se hayan encontrado y que, además de haber fundado una religión, no esté en guerra actualmente.</Text>
+			</Replace>
+			<!-- END Stormwind | ANDUIN_WRYNN -->
+			<!-- Dwarf | FALSTAD_WILDHAMMER -->
+			<Replace Tag="LOC_LEADER_FALSTAD_WILDHAMMER_NAME" Language="es_ES">
+				<Text>Falstad Martillo Salvaje</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_WILDHAMMER_CLAN_NAME" Language="es_ES">
+				<Text>Clan Martillo Salvaje</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_WILDHAMMER_CLAN_DESCRIPTION" Language="es_ES">
+				<Text>Las unidades recién entrenadas obtienen 2 acciones de construcción adicionales.</Text>
+			</Replace>
+			<!-- END Dwarf | FALSTAD_WILDHAMMER -->
+			<!-- Orcs | Varok -->
+			<Replace Tag="LOC_LEADER_VAROK_SAURFANG_NAME" Language="es_ES">
+				<Text>Varok Colmillosauro</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_VETERAN_OF_THE_ORCS_NAME" Language="es_ES">
+				<Text>Veterano de los Orcos</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_VETERAN_OF_THE_ORCS_DESCRIPTION" Language="es_ES">
+				<Text>Espacio adicional para política militar.</Text>
+			</Replace>
+			<!-- END Orcs | Varok -->
+			<!-- BURNING_LEGION | KILJAEDEN -->
+			<Replace Tag="LOC_CIVILIZATION_BURNING_LEGION_NAME" Language="es_ES">
+				<Text>Legión Ardiente</Text>
+			</Replace>
+			<Replace Tag="LOC_CIVILIZATION_BURNING_LEGION_DESCRIPTION" Language="es_ES">
+				<Text>Legión Ardiente</Text>
+			</Replace>
+			<Replace Tag="LOC_CIVILIZATION_BURNING_LEGION_ADJECTIVE" Language="es_ES">
+				<Text>Legión</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_GREAT_BURNING_SHADOW_NAME" Language="es_ES">
+				<Text>La Gran Sombra Ardiente</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_GREAT_BURNING_SHADOW_DESCRIPTION" Language="es_ES">
+				<Text>Espacio adicional para política militar. Acumula un 60% menos de hastío bélico. Mantenimiento de unidades reducido 4 Oro [ICON_Gold] por unidad.</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_THE_DECEIVER_NAME" Language="es_ES">
+				<Text>El Embustero</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_THE_DECEIVER_DESCRIPTION" Language="es_ES">
+				<Text>+50% a la Producción [ICON_Production] para las unidades cuerpo a cuerpo y a distancia de las Épocas Antigua, Clásica, Medieval y Renacimiento. +100% a la Producción [ICON_Production] de unidades de Caballería pesada y ligera de la Edad Media, Renacimiento y la Revolución Industrial.</Text>
+			</Replace>
+			<!-- END BURNING_LEGION | KILJAEDEN -->
+			<!-- BURNING_LEGION | SARGERAS -->
+			<Replace Tag="LOC_TRAIT_DARK_TITAN_NAME" Language="es_ES">
+				<Text>El Titan Oscuro</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_DARK_TITAN_DESCRIPTION" Language="es_ES">
+				<Text>Un espacio de política comodín adicional en cualquier gobierno. +4 Puntos para Grandes Generales.</Text>
+			</Replace>
+			<!-- END BURNING_LEGION | SARGERAS -->
+			<!-- BURNING_LEGION | VARIMATHRAS -->
+			<Replace Tag="LOC_TRAIT_NATHREZIM_DESCRIPTION" Language="es_ES">
+				<Text>60% de Crecimiento de Ciudades.</Text>
+			</Replace>
+			<!-- END BURNING_LEGION | VARIMATHRAS -->
+			<!-- TWILIGHT_HAMMER | Cho'Gall -->
+			<Replace Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_NAME" Language="es_ES">
+				<Text>Martillo Crepuscular</Text>
+			</Replace>
+			<Replace Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_DESCRIPTION" Language="es_ES">
+				<Text>Martillo Crepuscular</Text>
+			</Replace>
+			<Replace Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_ADJECTIVE" Language="es_ES">
+				<Text>Crepuscular</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_CULT_OF_TWILIGHT_NAME" Language="es_ES">
+				<Text>Culto Crepuscular</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_CULT_OF_TWILIGHT_DESCRIPTION" Language="es_ES">
+				<Text>Las victorias en combate proporcionan Fe [ICON_Faith] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada.</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_SHADOW_MAGE_NAME" Language="es_ES">
+				<Text>Mago de las Sombras</Text>
+			</Replace>
+			<Replace Tag="LOC_TRAIT_SHADOW_MAGE_DESCRIPTION" Language="es_ES">
+				<Text>Los Inquisidores pueden Eliminar herejía una vez más. Las unidades de combate tienen una bonificación de +4 a la Fuerza de combate [ICON_Strength] contra jugadores de otras religiones.</Text>
+			</Replace>
+			<!-- END TWILIGHT_HAMMER | Cho'Gall -->
+		</LocalizedText>
+</GameData>

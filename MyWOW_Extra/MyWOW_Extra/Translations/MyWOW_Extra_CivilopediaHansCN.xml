@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRALL_QUOTE"  Language="zh_Hans_CN">
+			<Text>要拥有智慧首先要学会说“我不知道”，不会说这句话的人就学不到任何知识。我很庆幸自己非常善于学习。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ANDUIN_WRYNN_QUOTE"  Language="zh_Hans_CN">
+			<Text>现在结束这场战争还为时不晚。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FALSTAD_WILDHAMMER_QUOTE"  Language="zh_Hans_CN">
+			<Text>三锤议会需要我，不过我还是更喜欢骑着狮鹫自由自在的生活。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VAROK_SAURFANG_QUOTE"  Language="zh_Hans_CN">
+			<Text>我乃世人的守望者。我是复仇的铁拳，碾碎一切反抗。你胆敢质疑大酋长的命令？你可有勇气面对我无情的审判？</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KILJAEDEN_QUOTE"  Language="zh_Hans_CN">
+			<Text>末日已经到来了！让这个世界就此支离破碎吧！</Text>
+		</Replace>
+		<!-- CIV INFO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Replace Tag="LOC_CIVINFO_BURNING_LEGION_LOCATION" Language="zh_Hans_CN">
+			<Text>任何地方</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_BURNING_LEGION_SIZE" Language="zh_Hans_CN">
+			<Text>全部星球</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_BURNING_LEGION_POPULATION" Language="zh_Hans_CN">
+			<Text>无限</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_BURNING_LEGION_CAPITAL" Language="zh_Hans_CN">
+			<Text>阿古斯</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_TWILIGHT_HAMMER_LOCATION" Language="zh_Hans_CN">
+			<Text>穿越艾泽拉斯</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_TWILIGHT_HAMMER_SIZE" Language="zh_Hans_CN">
+			<Text>92,000平方英里</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_TWILIGHT_HAMMER_POPULATION" Language="zh_Hans_CN">
+			<Text>500,000信徒</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_TWILIGHT_HAMMER_CAPITAL" Language="zh_Hans_CN">
+			<Text>暮光堡垒</Text>
+		</Replace>
+		<!-- CIVS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BURNING_LEGION_CHAPTER_HISTORY_PARA_1"  Language="zh_Hans_CN">
+			<Text>燃烧军团是一支规模庞大、无穷无尽的军队，由恶魔和被腐化的种族构成，意图毁灭所有生命。萨格拉斯为了摧毁宇宙中的所有星魂而建立了这个军团，希望以此避免虚空领主通过对星魂进行腐蚀来制造黑暗泰坦——一种无法言喻的邪恶，宇宙的终极毁灭者和吞噬者。T</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TWILIGHT_HAMMER_CHAPTER_HISTORY_PARA_1"  Language="zh_Hans_CN">
+			<Text>暮光之锤是一个服侍古神的大型邪教。其主要目的是将世界带入暮光审判。。暮光之锤原本是一个兽人氏族。在古加尔的控制下，暮锤氏族的兽人已经变成了一支嗜杀的邪教，盲目地崇拜着上古之神及其使者死亡之翼。第一次战争以来，暮光之锤就持续活跃着；而到了死亡之翼回归后，暮光之锤就成为了联盟和部落的重大威胁之一。</Text>
+		</Replace>
+		<!-- LEADERS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRALL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>萨尔是霜狼氏族酋长杜隆坦的儿子，母亲是德拉卡。萨尔的萨满信仰指引着他的行动，他重整了部落，成为大酋长并领导他的人民在贫瘠之地上定居，那里正是以他的父亲杜隆坦的名字而命名的杜隆塔尔。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAIRNE_BLOODHOOF_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>凯恩·血蹄是牛头人联合氏族的大酋长，血蹄氏族酋长，雷霆崖的领导者，也是血蹄的符文之矛最后一任持有者。凯恩在部落登上卡利姆多海岸之后与其结盟，并成为了其中最为睿智与备受敬重的领袖之一，直到他在与部落新任大酋长加尔鲁什·地狱咆哮的决斗中被杀。他的酋长之职由其子贝恩·血蹄继任。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ANDUIN_WRYNN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>安度因·莱恩·乌瑞恩是暴风城国王，联盟的至高王，以及联盟军的指挥官。在其父亲瓦里安·乌瑞恩于破碎海滩战死之后，加冕成为暴风城国王。与其父亲果断的战士形象不同，安度因更善于思考与外交，同时也是圣光教会的信徒。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FALSTAD_WILDHAMMER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>弗斯塔德·蛮锤也被称为弗斯塔德·掠龙者，是蛮锤氏族的大领主。他在辛特兰的鹰巢山统治着蛮锤氏族，同时也是铁炉堡中的三锤议会成员之一。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VAROK_SAURFANG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>瓦罗克·萨鲁法尔大王是一位经历过三次战争的宿将。他先在第二次战争时作为奥格瑞姆·毁灭之锤的副官在部落效命，后来又作为最高指挥官统帅卡利姆多联军，在希利苏斯对抗安其拉的其拉人，再后来他作为库卡隆领袖在诺森德对抗亡灵天灾，在决战奥格瑞玛战役中协助萨尔作战。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KILJAEDEN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>基尔加丹是一名强大的艾瑞达恶魔领主，燃烧军团内仅次于萨格拉斯的二号人物。25000年前，基尔加丹、维伦与阿克蒙德曾是阿古斯上温和的艾瑞达人的领袖。 当黑暗泰坦萨格拉斯降临阿古斯时，他向艾瑞达的领袖们提供了最重要的问题——“那深埋在浩瀚宇宙之中的最大缺陷究竟为何物？”——的答案。于是，艾瑞达这个崇尚追寻知识的种族，在基尔加丹和阿克蒙德的带领下接受了黑暗泰坦。萨格拉斯则赐予他们无法想象的强大力量，并将艾瑞达转化为恶魔。他们将帮助萨格拉斯与那“缺陷”作战。维伦和他的追随者则逃离了阿古斯，并改称自己为德莱尼：“被流放者”。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SARGERAS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>萨格拉斯是燃烧军团的缔造者与统治者。他曾是万神殿的勇士，其职责是保卫由泰坦赋予秩序的众多世界。然而，曾经是守护者和保卫者的萨格拉斯，如今却意图毁灭所有星魂和宇宙中的全部生命，以及泰坦们在漫长的岁月里所为之奋斗的一切。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VARIMATHRAS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>瓦里玛萨斯是一名燃烧军团麾下的恐惧魔王。他和他的恐惧魔王兄弟们曾被希尔瓦娜斯·风行者的亡灵军队击败，为给自己换得一条生路，他被迫与被遗忘者结盟且听命于希尔瓦娜斯。但尽管他向希尔瓦娜斯宣誓效忠，事实上却仍忠于军团，这也使他最终发动了夺取幽暗城控制权的政变。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHOGALL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>古加尔是食人魔种族中最强大的魔法师，影子议会忠实的成员。在破碎群岛的战役之后，古加尔逃到了南卡利姆多，躲进了安其拉神殿地下的克苏恩密室中。被克苏恩腐化的古加尔但谁知克苏恩并没有死亡，而古加尔和他的部族也因此被上古之神控制，成为了它复生计划的棋子。随着死亡之翼的苏醒以及随之而来的大灾变，古加尔联合暮光之锤与堕落的他的盟友，强大的元素领主奥拉基尔和拉格纳罗斯，以帮助他们迎来终结时代。古加尔在暮光高地的城堡中监督邪教的努力。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

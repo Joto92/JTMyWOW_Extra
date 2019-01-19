@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+	<FavoredReligions>
+		<Row LeaderType="LEADER_THRALL" ReligionType="RELIGION_SHAMANISM" />
+		<Row LeaderType="LEADER_CAIRNE_BLOODHOOF" ReligionType="RELIGION_EARTHMOTHER" />
+		<Row LeaderType="LEADER_ANDUIN_WRYNN" ReligionType="RELIGION_HOLY_LIGHT" />
+		<Row LeaderType="LEADER_FALSTAD_WILDHAMMER" ReligionType="RELIGION_TITANS" />
+		<Row LeaderType="LEADER_VAROK_SAURFANG" ReligionType="RELIGION_SHAMANISM" />
+		<Row LeaderType="LEADER_KILJAEDEN" ReligionType="RELIGION_FEL" />
+		<Row LeaderType="LEADER_SARGERAS" ReligionType="RELIGION_FEL" />
+		<Row LeaderType="LEADER_VARIMATHRAS" ReligionType="RELIGION_FEL" />
+		<Row LeaderType="LEADER_CHOGALL" ReligionType="RELIGION_WOW_OLD_GODS" />
+
+	</FavoredReligions>
+</GameData>

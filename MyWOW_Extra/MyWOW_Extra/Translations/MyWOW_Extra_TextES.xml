@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Orcs | Thrall -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_THRALL" Language="es_ES">
+			<Text>Thrall, hijo de Durotan, es el antiguo Jefe de Guerra de la restaurada Horda, y gobernador de Durotar en Kalimdor. Tras la caída del Rey Exánime y la creciente invasión elemental que culminó en el Cataclismo, Thrall dejó el puesto de líder de la Horda y se unió al Anillo de la Tierra para combatir con los furiosos elementales. </Text>
+		</Replace>
+		<!-- END Orcs | Thrall -->
+		<!-- Tauren | CAIRNE_BLOODHOOF -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CAIRNE_BLOODHOOF" Language="es_ES">
+			<Text> Cairne Pezuña de Sangre fue el líder de las tribus unidas tauren, patriarca de los Pezuña de Sangre y gobernador de Cima del Trueno. Aliado de la Horda desde que desembarcaron en las orillas de Kalimdor, Cairne era uno de sus más sabios y venerados líderes. Portaba como arma la legendaria Bloodhoof Runespear. Falleció en un desafortunado duelo frente a Garrosh, nuevo Jefe de Guerra de la Horda.</Text>
+		</Replace>
+		<!-- END Tauren | CAIRNE_BLOODHOOF -->
+		<!-- Stormwind | ANDUIN_WRYNN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ANDUIN_WRYNN" Language="es_ES">
+			<Text>Anduin Llane Wrynn es el Rey de Ventormenta, Alto Rey de la Alianza y comandante de todas las fuerzas de la Alianza después de la muerte de su padre, Varian Wrynn. En contraste con su padre un reconocido guerrero, Anduin es contemplativo y diplomático, así como un sacerdote de la Iglesia de la Luz Sagrada.</Text>
+		</Replace>
+		<!-- END Stormwind | ANDUIN_WRYNN -->
+		<!-- Dwarf | FALSTAD_WILDHAMMER -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_FALSTAD_WILDHAMMER" Language="es_ES">
+			<Text>Falstad Martillo Salvaje es el gran señor feudal del clan Martillo Salvaje y representante de los enanos Martillo Salvaje en el Consejo de los Tres Martillos. Anteriormente dirigía con valor a su clan desde Pico Nidal en las Tierras del Interior.</Text>
+		</Replace>
+		<!-- END Dwarf | FALSTAD_WILDHAMMER -->
+		<!-- Orcs | VAROK_SAURFANG -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_VAROK_SAURFANG" Language="es_ES">
+			<Text>Varok Colmillosauro es un legendario guerrero orco que sirvió como comandante del ejército combinado de la Alianza y la Horda en la guerra contra Ahn'Qiraj en Kalimdor y que posteriormente pasó a dirigir a la Guardia Kor'kron contra La Plaga en Rasganorte. Saurok tomo la posición de lider de Orgrimmar.</Text>
+		</Replace>
+		<!-- END Orcs | VAROK_SAURFANG -->
+		<!-- BURNING_LEGION | KILJAEDEN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_KILJAEDEN" Language="es_ES">
+			<Text>Kil'jaeden, un poderoso señor demoníaco eredar, es el actual líder de la Legión Ardiente. Fue elegido hace veinticinco mil años como el lugarteniente jefe de Sargeras. Fue el artífice de muchos de los grandes males de la historia, entre los cuales fue la formación de la primera Horda que masacró a los draenei y provocó la guerra en mundo de Azeroth. También es el responsable de la creación del Rey Exánime.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THE_BLACKCITY" Language="es_ES">
+			<Text>Ciudad Negra</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FELBAZE_INGRESS" Language="es_ES">
+			<Text>Felbaze Ingress</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FELSOUL_HOLD" Language="es_ES">
+			<Text>Felsoul Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BURNING_FARONAAR" Language="es_ES">
+			<Text>Faronaar Ardiente</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BURNING_CONSTELLAS" Language="es_ES">
+			<Text>Constellas Ardiente</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MANNOROC_COVEN" Language="es_ES">
+			<Text>Mannoroc Coven</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOMB_SARGERAS" Language="es_ES">
+			<Text>Tumba de Sargeras</Text>
+		</Replace>
+		<!-- END BURNING_LEGION | KILJAEDEN -->
+		<!-- BURNING_LEGION | SARGERAS -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_SARGERAS" Language="es_ES">
+			<Text>Sargeras es el creador y líder de la Legión Ardiente y maestro de todo lo malo y diabólico.Era uno de los titanes creadores del universo, querido por sus camaradas por su valentía y fuerza. Era un extraordinario guerrero, campeón del Panteón, capaz de devastar él solo a todo un ejercito enemigo. Fue elegido para defender el mundo que los titanes habían creado. Con el tiempo empezó a volverse egoísta y malvado, y a pensar que los demás estaban en su contra. Sufrió visiones oscuras, de muerte, de caos y desolación. Pasado un tiempo, se fijó en los Eredar, una raza de seres con gran inteligencia y dominio de la magia.</Text>
+		</Replace>
+		<!-- END BURNING_LEGION | SARGERAS -->
+		<!-- BURNING_LEGION | VARIMATHRAS -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_VARIMATHRAS" Language="es_ES">
+			<Text>Varimathras es un Señor del Terror que estuvo una vez al servicio de la Legión Ardiente, pero que se vio obligado a unirse a los Renegados, bajo el control directo de Sylvanas, como moneda de cambio por salvar su vida después de que tanto él como sus hermanos fueran superados por los ejércitos de la Dama Oscura junto a la que permanecía. Sin embargo, a pesar de haberle jurado lealtad, sirve secretamente a un amo aún más poderoso.</Text>
+		</Replace>
+		<!-- END BURNING_LEGION | VARIMATHRAS -->
+		<!-- TWILIGHT_HAMMER | Cho'Gall -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CHOGALL" Language="es_ES">
+			<Text>Cho'gall fue un poderoso ogro mago, iniciado del Quinto Círculo del Consejo de la Sombra y líder del Clan Martillo Crepuscular. Cuando huyó a Kalimdor y tomó refugio en la Ciudad en Ruinas de Ahn'Qiraj, el cuerpo Cho'gall fue imbuido con el poder del Dios Antiguo C'Thun. Cho'gall se alió con el Martillo Crepuscular, con los Aspectos corruptos, los poderosos Elementales Al'Akir y Ragnaros. Comandando el culto desde su ciudadela en las Tierras Altas Crepusculares.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BASTION_TWILIGHT" Language="es_ES">
+			<Text>El Bastión del Crepúsculo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLACK_ROCK_MT" Language="es_ES">
+			<Text>Montaña Roca Negra</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SEAT_CHOSEN" Language="es_ES">
+			<Text>Trono de los Elegidos</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TWILIGHT_GAUNTLET" Language="es_ES">
+			<Text>Guante Crepuscular</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DOOM_VIGIL" Language="es_ES">
+			<Text>Vigilia de la Fatalidad</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FORGE_OF_SUPPLICATION" Language="es_ES">
+			<Text>Forja de las Suplicas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SULFURON_SPIRE" Language="es_ES">
+			<Text>Aguja de Sulfuron</Text>
+		</Replace>
+		<!-- END TWILIGHT_HAMMER | Cho'Gall -->
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Orcs | Thrall -->
+		<Row Tag="LOC_LEADER_THRALL_NAME" Language="en_US">
+			<Text>Thrall</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_EARTH_WARDER_NAME" Language="en_US">
+			<Text>Earth Warder</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_EARTH_WARDER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Faith] Faith for each civilization (including Orcs) they have met that has founded a Religion and is not currently at war.</Text>
+		</Row>
+		<!-- END Orcs | Thrall -->
+		<!-- Tauren | CAIRNE_BLOODHOOF -->
+		<Row Tag="LOC_LEADER_CAIRNE_BLOODHOOF_NAME" Language="en_US">
+			<Text>Cairne Bloodhoof</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNITED_TAUREN_TRIBES_NAME" Language="en_US">
+			<Text>United Tauren Tribes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNITED_TAUREN_TRIBES_DESCRIPTION" Language="en_US">
+			<Text>All cities you found or conquer start with a Trading Post. If in [ICON_TradeRoute] Trade Route range of your [ICON_Capital] Capital, they also start with a road to it. Your [ICON_TradeRoute] Trade Routes earn +1 [ICON_Gold] Gold for passing through Trading Posts in your own cities.</Text>
+		</Row>
+		<!-- END Tauren | CAIRNE_BLOODHOOF -->
+		<!-- Stormwind | ANDUIN_WRYNN -->
+		<Row Tag="LOC_LEADER_ANDUIN_WRYNN_NAME" Language="en_US">
+			<Text>Anduin Wrynn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_BOY_KING_NAME" Language="en_US">
+			<Text>The Boy King</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_BOY_KING_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Faith] Faith for each civilization (including Stormwind) they have met that has founded a Religion and is not currently at war.</Text>
+		</Row>
+		<!-- END Stormwind | ANDUIN_WRYNN -->
+		<!-- Dwarf | FALSTAD_WILDHAMMER -->
+		<Row Tag="LOC_LEADER_FALSTAD_WILDHAMMER_NAME" Language="en_US">
+			<Text>Falstad Wildhammer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WILDHAMMER_CLAN_NAME" Language="en_US">
+			<Text>Wildhammer Clan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WILDHAMMER_CLAN_DESCRIPTION" Language="en_US">
+			<Text>Newly trained Builders gain 2 extra build actions.</Text>
+		</Row>
+		<!-- END Dwarf | FALSTAD_WILDHAMMER -->
+		<!-- Orcs | Varok -->
+		<Row Tag="LOC_LEADER_VAROK_SAURFANG_NAME" Language="en_US">
+			<Text>Varok Saurfang</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_VETERAN_OF_THE_ORCS_NAME" Language="en_US">
+			<Text>Veteran of the Orcs</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_VETERAN_OF_THE_ORCS_DESCRIPTION" Language="en_US">
+			<Text>Additional Military policy slot.</Text>
+		</Row>
+		<!-- END Orcs | Varok -->
+		<!-- BURNING_LEGION | KILJAEDEN -->
+		<Row Tag="LOC_CIVILIZATION_BURNING_LEGION_NAME" Language="en_US">
+			<Text>Burning Legion</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BURNING_LEGION_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BURNING_LEGION_ADJECTIVE" Language="en_US">
+			<Text>Legion</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_KILJAEDEN_NAME" Language="en_US">
+			<Text>Kil'Jaeden</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GREAT_BURNING_SHADOW_NAME" Language="en_US">
+			<Text>Great Burning Shadow</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GREAT_BURNING_SHADOW_DESCRIPTION" Language="en_US">
+			<Text>Additional Military policy slot. Accumulate 60% less war weariness than usual. Unit maintenance cost reduced by 4 Gold per turn, per unit.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_DECEIVER_NAME" Language="en_US">
+			<Text>The Deceiver</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_DECEIVER_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] Production toward Ancient, Classical, Medieval and Renaissance era melee and ranged units. 100% [ICON_Production] Production toward Medieval, Renaissance, and Industrial era heavy and light cavalry units.</Text>
+		</Row>
+		<!-- END BURNING_LEGION | KILJAEDEN -->
+		<!-- BURNING_LEGION | SARGERAS -->
+		<Row Tag="LOC_LEADER_SARGERAS_NAME" Language="en_US">
+			<Text>Sargeras</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DARK_TITAN_NAME" Language="en_US">
+			<Text>The Dark Titan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DARK_TITAN_DESCRIPTION" Language="en_US">
+			<Text>One extra Wildcard policy slot in any government. +4 for Great Generals</Text>
+		</Row>
+		<!-- END BURNING_LEGION | SARGERAS -->
+		<!-- BURNING_LEGION | VARIMATHRAS -->
+		<Row Tag="LOC_LEADER_VARIMATHRAS_NAME" Language="en_US">
+			<Text>Varimathras</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NATHREZIM_NAME" Language="en_US">
+			<Text>Nathrezim</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NATHREZIM_DESCRIPTION" Language="en_US">
+			<Text>60% more City Growth than usual.</Text>
+		</Row>
+		<!-- END BURNING_LEGION | VARIMATHRAS -->
+		<!-- TWILIGHT_HAMMER | Cho'Gall -->
+		<Row Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_NAME" Language="en_US">
+			<Text>Twilight Hammer</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_DESCRIPTION" Language="en_US">
+			<Text>Twilight Hammer</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TWILIGHT_HAMMER_ADJECTIVE" Language="en_US">
+			<Text>Twilight</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CHOGALL_NAME" Language="en_US">
+			<Text>Cho'Gall</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CULT_OF_TWILIGHT_NAME" Language="en_US">
+			<Text>Cult of Twilight</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CULT_OF_TWILIGHT_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Faith] Faith equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SHADOW_MAGE_NAME" Language="en_US">
+			<Text>Shadow Mage</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SHADOW_MAGE_DESCRIPTION" Language="en_US">
+			<Text>Inquisitors can Remove Heresy one extra time. Combat units have a bonus of +4 [ICON_Strength] Combat Strength against players following other Religions.</Text>
+		</Row>
+		<!-- END TWILIGHT_HAMMER | Cho'Gall -->
+	</LocalizedText>
+</GameData>

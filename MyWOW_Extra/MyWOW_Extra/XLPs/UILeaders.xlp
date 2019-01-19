@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_THRALL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_THRALL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THRALL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_THRALL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CAIRNE_BLOODHOOF_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CAIRNE_BLOODHOOF_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CAIRNE_BLOODHOOF_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CAIRNE_BLOODHOOF_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ANDUIN_WRYNN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ANDUIN_WRYNN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ANDUIN_WRYNN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ANDUIN_WRYNN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FALSTAD_WILDHAMMER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FALSTAD_WILDHAMMER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FALSTAD_WILDHAMMER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FALSTAD_WILDHAMMER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VAROK_SAURFANG_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VAROK_SAURFANG_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VAROK_SAURFANG_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VAROK_SAURFANG_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KILJAEDEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_KILJAEDEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KILJAEDEN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_KILJAEDEN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SARGERAS_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SARGERAS_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SARGERAS_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SARGERAS_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VARIMATHRAS_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VARIMATHRAS_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VARIMATHRAS_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VARIMATHRAS_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CHOGALL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CHOGALL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CHOGALL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CHOGALL_BACKGROUND"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

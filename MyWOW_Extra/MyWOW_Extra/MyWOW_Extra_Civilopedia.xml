@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRALL_QUOTE"  Language="en_US">
+			<Text>The beginning of wisdom is the statement 'I do not know.' The person who cannot make that statement is one who will never learn anything. And I have prided myself on my ability to learn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ANDUIN_WRYNN_QUOTE"  Language="en_US">
+			<Text>There will be peace. One day.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FALSTAD_WILDHAMMER_QUOTE"  Language="en_US">
+			<Text>The Council of Three Hammers requires me presence, but I'd rather be riding me gryphon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VAROK_SAURFANG_QUOTE"  Language="en_US">
+			<Text>I am he who watches they. I am the fist of retribution. That which does quell the recalcitrant. Dare you defy the Warchief? Dare you face my merciless judgement?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KILJAEDEN_QUOTE"  Language="en_US">
+			<Text>The end has come! Let the unraveling of this world commence!</Text>
+		</Row>
+		<!-- CIV INFO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_BURNING_LEGION_LOCATION" Language="en_US">
+			<Text>Everywhere</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BURNING_LEGION_SIZE" Language="en_US">
+			<Text>Whole Planets</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BURNING_LEGION_POPULATION" Language="en_US">
+			<Text>Infinite</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BURNING_LEGION_CAPITAL" Language="en_US">
+			<Text>Argus</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TWILIGHT_HAMMER_LOCATION" Language="en_US">
+			<Text>Across Azeroth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TWILIGHT_HAMMER_SIZE" Language="en_US">
+			<Text>92,000 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TWILIGHT_HAMMER_POPULATION" Language="en_US">
+			<Text>500,000 cultist</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TWILIGHT_HAMMER_CAPITAL" Language="en_US">
+			<Text>Bastion of Twilight</Text>
+		</Row>
+		<!-- CIVS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BURNING_LEGION_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Burning Legion is a vast, innumerable army of demons and corrupted races who seek to destroy all life. Sargeras created it with the purpose of destroying all world-souls in the universe in order to prevent the void lords from corrupting them, which would lead to the birth of a dark titan, a being of unspeakable evil that would utterly annihilate and consume the universe. The Legion is responsible for the annihilation of countless species and some entire planets across the Great Dark Beyond, and it transcends all universes destroying their possible worlds in the grand Crusade. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TWILIGHT_HAMMER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Twilight's Hammer is a widespread nihilistic cult active across Azeroth that fanatically serves and worships the Old Gods and seeks to bring about the end of the world. Originally twisted from an orc clan into its current form by Cho'gall,the cult has been active since before the First War, but they became a major worldwide threat to both the Alliance and the Horde after Deathwing's return and the great Cataclysm shattered Azeroth.</Text>
+		</Row>
+		<!-- LEADERS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRALL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Thrall , son of Durotan and Draka, is the former Warchief of the restored shamanistic Horde, founder of the nation of Durotar in Kalimdor and one of the second wave of shaman. His parents killed by Gul'dan's assassins shortly after his birth in the beginning of the First War, he was found and raised by Aedelas Blackmoore who gave Thrall his name. Raised as a slave and gladiator, he later joined Orgrim Doomhammer in freeing the orcs imprisoned after the Second War, being named Warchief after Doomhammer's death. After leading the Horde away from the Alliance-claimed Eastern Kingdoms, he rescued and made allies of the Darkspear trolls and Bloodhoof tauren. Thrall led the new Horde against their former demonic masters in the Battle of Mount Hyjal. He subsequently led diplomatic efforts at peace between the Horde and Alliance after the end of the Third War.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAIRNE_BLOODHOOF_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Cairne Bloodhoof was the High Chieftain of the united tribes of the tauren,chieftain of the Bloodhoof, leader of Thunder Bluff, and the final wielder of the Bloodhoof Runespear. Allying with the Horde upon its arrival on the shores of Kalimdor, Cairne stood as one of its wisest and most venerated leaders, until his unfortunate death in a duel against Garrosh Hellscream, the new Warchief of the Horde. He was succeeded as chief by his son Baine Bloodhoof.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ANDUIN_WRYNN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Anduin Llane Wrynn is the King of Stormwind, High King of the Alliance, and commander of all Alliance forces since the death of his father, Varian Wrynn. In contrast to his decisive warrior father, Anduin is contemplative and diplomatic, as well as a priest of the Church of the Holy Light. Similar in ways to his surrogate aunt Jaina Proudmoore prior to Theramore's Fall, Anduin sought a peaceful way to end the conflict between the Alliance and Horde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FALSTAD_WILDHAMMER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Falstad Wildhammer, also known as Falstad Dragonreaver, is the High Thane of the Wildhammer clan. He ruled the Wildhammer clan from Aerie Peak in the Hinterlands following the departure of Kurdran Wildhammer and joined his companions Rhonin and Vereesa in freeing the Dragon Queen Alexstrasza from Grim Batol. Since the Cataclysm, he serves as a member of the Council of Three Hammers in Ironforge. Falstad attempts to bring balance within the Council and maintains strong diplomatic ties abroad.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VAROK_SAURFANG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>High Overlord Varok Saurfang  is a renowned orc warrior of the Blackrock clan and a famed veteran of the First, Second, and Third Wars. He served as Orgrim Doomhammer's second-in-command during the Second War, and as Supreme Commander of the combined Might of Kalimdor, rallying the army against the qiraji of Ahn'Qiraj in Silithus. He later led the Kor'kron against the Scourge in Northrend, and assisted Thrall during the Siege of Orgrimmar. Following the tragic battle on the Broken Shore and Sylvanas Windrunner's promotion to Warchief, Saurfang took up the position as leader of the Orgrimmar orcs and now resides in Grommash Hold.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KILJAEDEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kil'jaeden was a powerful eredar demon lord and the second in rank of the Burning Legion. 25,000 years ago, Kil'jaeden, Archimonde and Velen were the leaders of the benevolent eredar people of Argus. When the Dark Titan Sargeras arrived and offered them the answer to the most important question there was, "what is the one true underlying flaw of the universe?", the eredar, as a knowledge-seeking race, accepted, led by Kil'jaeden and Archimonde. Sargeras blessed them with unimaginable power, turning the eredar into demons who would help Sargeras get rid of that flaw, while Velen and his followers fled, renaming themselves the draenei.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SARGERAS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Sargeras is a titan and the creator and leader of the Burning Legion. He was once the champion of the Pantheon, chosen to defend the worlds the titans had ordered. However, while he once served as a guardian and protector, he later set out to destroy all world-souls and life in the universe, and undo what the titans had strived for ages to achieve.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VARIMATHRAS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Varimathras is a dreadlord in the service of the Burning Legion. He was forced into allying with the Forsaken, under the direct control of Sylvanas Windrunner, in exchange for sparing his life after he and his brothers were overcome by her undead forces. Though he swore allegiance to Sylvanas, Varimathras remained loyal to the Legion and eventually staged a coup for control of the Undercity.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHOGALL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Cho'gall was a powerful ogre mage, Initiate of the Fifth Circle of the Shadow Council, and Chieftain of the Twilight's Hammer clan. Cho'gall managed to survive with remnants of his clan when Gul'dan was torn to shreds by demons during his quest to find the Eye of Sargeras toward the end of the Second War. Fleeing to Kalimdor and taking refuge within the ruined city of Ahn'Qiraj, Cho'gall's body became warped by the power of the Old God C'Thun. With the return of Deathwing and the Shattering that followed in his wake, Cho'gall aligned himself and the Twilight's Hammer with the corrupted Aspect and his allies, the powerful Elemental Lords Al'Akir and Ragnaros, to help usher in the end times. Overseeing the cult's efforts from his citadel in the Twilight Highlands.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
