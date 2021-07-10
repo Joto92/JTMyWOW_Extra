@@ -6,63 +6,54 @@
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_THRALL_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_THRALL_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_CAIRNE_BLOODHOOF</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_CAIRNE_BLOODHOOF_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CAIRNE_BLOODHOOF_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_ANDUIN_WRYNN</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_ANDUIN_WRYNN_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_ANDUIN_WRYNN_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_FALSTAD_WILDHAMMER</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_FALSTAD_WILDHAMMER_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_FALSTAD_WILDHAMMER_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_VAROK_SAURFANG</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_VAROK_SAURFANG_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_VAROK_SAURFANG_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_KILJAEDEN</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_KILJAEDEN_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_KILJAEDEN_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_SARGERAS</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_SARGERAS_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_SARGERAS_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_VARIMATHRAS</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_VARIMATHRAS_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_VARIMATHRAS_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_CHOGALL</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_CHOGALL_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CHOGALL_SECONDARY</SecondaryColor>
-			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 	</PlayerColors>
 
